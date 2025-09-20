@@ -2,7 +2,7 @@
   "name": "Sufra",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sarayoutest.github.io/Complete-Food-Delivery",
+  "homepage": "https://sarayoutest.github.io/food-delivery",
   "type": "module",
   "scripts": {
     "dev": "vite",
